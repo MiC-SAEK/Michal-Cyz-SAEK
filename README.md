@@ -1,8 +1,11 @@
 # serbske-teksty
 Zhromadźene serbske teksty pod swobodnej licencu
 
-Prošu na to dźiwać, zo su sady w dobrej serbšćinje a zo su "rěčujomne" !!!
+https://common-voice.github.io/sentence-collector/?#/review/hsb
 
-A zo njebychmy lóšt při dźěle zhubili, so prošu tež wo zajimawu wotměnu postarać !!!
-Informacije wo Domowinje mamy drje mjeztym dosć kaž nadosć, 
-nas zajimuja fakty k powšitkownej wědźe abo prosće zabawna wšědna konwerzacija !!!
+Prošu na to dźiwać, zo su sady w dobrej serbšćinje, bjez germanizmow/anglicizmow bjez "Sonderzeichen" kaž @/€""'# 
+... a zo su tež za kóždeho serbskeho rěčnika "rěčujomne" !!!
+
+Nochcemy lóšt při dźěle zhubilć, tuž postarajće so prošu wo zajimawu wotměnu tekstowych zběrkow !!!
+(Informacije wo Domowinje mamy drje mjeztym dosć kaž nadosć)
+Fakty powšitkowneje wědy, potaństwa, priwatne nowosće abo prosće zabawna wšědna serbska konwerzacija ...
