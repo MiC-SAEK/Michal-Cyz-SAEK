@@ -2,6 +2,7 @@
 Zhromadźene serbske teksty pod swobodnej licencu
 
 https://common-voice.github.io/sentence-collector/?#/review/hsb
+(Prošu zapisaj deleka na lěwo Twoje Nick-mjeno, a móžeš hnydom započinać)
 
 Prošu na to dźiwać, zo su sady w dobrej serbšćinje, bjez germanizmow/anglicizmow bjez "Sonderzeichen" kaž @/€""'# 
 ... a zo su tež za kóždeho serbskeho rěčnika "rěčujomne" !!!
