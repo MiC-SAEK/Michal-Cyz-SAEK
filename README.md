@@ -1,7 +1,7 @@
 # serbske-teksty
 Zhromadźene serbske teksty pod swobodnej licencu
 
-https://common-voice.github.io/sentence-collector/?#/review/hsb   [nastajće rěč: Upper sorbian (Hornjoserbšćina) ]
+https://common-voice.github.io/sentence-collector/?#/review/hsb   ***   [nastajće rěč: Upper sorbian (Hornjoserbšćina) ] ***
 (Prošu zapisaj deleka na lěwo Twoje Nick-mjeno, a móžeš hnydom započinać)
 
 Prošu na to dźiwać, zo su sady w dobrej serbšćinje, bjez germanizmow/anglicizmow bjez "Sonderzeichen" kaž @/€""'# 
